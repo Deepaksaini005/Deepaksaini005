@@ -54,6 +54,8 @@
 📌 Analyze resumes using AI & ATS scoring  
 
 **✨ Features:**
+
+## 🔹 Resume anlayzer
 - ✔️ ATS Score Calculation  
 - ✔️ Skill Gap Detection  
 - ✔️ Interview Question Suggestions  
@@ -63,7 +65,6 @@
 
 ## 🔹 AI Chatbot (Groq API)
 
-<img src="ADD_IMAGE_LINK_HERE" width="100%"/>
 
 📌 Real-time conversational AI assistant  
 
@@ -77,7 +78,6 @@
 
 ## 🔹 Netflix Recommendation System 🎬
 
-<img src="ADD_IMAGE_LINK_HERE" width="100%"/>
 
 📌 ML-based movie recommendation system  
 
