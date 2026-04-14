@@ -89,7 +89,6 @@
 
 ## 🔹 Data Analysis Dashboard 📊
 
-<img src="ADD_IMAGE_LINK_HERE" width="100%"/>
 
 📌 Business insights using Power BI  
 
@@ -106,14 +105,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=radical" height="150"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini005&layout=compact&theme=radical"/>
 </p>
 
 ---
