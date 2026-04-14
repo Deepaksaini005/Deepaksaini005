@@ -15,11 +15,13 @@
 🤖 AI / ML
 <p> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/> <img src="https://img.shields.io/badge/Recommendation%20System-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge"/> </p>
 🚀 Featured Projects
+
 🔹 AI Resume Analyzer
 
 ✔️ ATS Score Calculation
 ✔️ Skill Gap Detection
 ✔️ Interview Question Suggestions
+
 
 🔹 AI Chatbot (Grok API)
 
@@ -27,11 +29,13 @@
 ⚡ Fast API responses
 🌐 Streamlit UI
 
+
 🔹 Netflix Recommendation System 🎬
 
 🎯 Personalized movie recommendations
 🧠 Content-based filtering + cosine similarity
 📊 Real-world ML system
+
 
 🔹 Data Analysis Dashboard
 
