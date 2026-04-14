@@ -37,7 +37,6 @@
 <p>
   <img src="https://img.shields.io/badge/Machine Learning-102230?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep Learning-0A192F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API Integration-009688?style=for-the-badge"/>
 </p>
 
@@ -55,7 +54,6 @@
 
 **✨ Features:**
 
-## 🔹 Resume anlayzer
 - ✔️ ATS Score Calculation  
 - ✔️ Skill Gap Detection  
 - ✔️ Interview Question Suggestions  
