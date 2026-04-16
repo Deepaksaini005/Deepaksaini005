@@ -48,7 +48,6 @@
 
 ## 🔹 AI Resume Analyzer
 
-<img src="ADD_IMAGE_LINK_HERE" width="100%"/>
 
 📌 Analyze resumes using AI & ATS scoring  
 
