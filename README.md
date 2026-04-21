@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI%2FML+Enthusiast;Power+BI+Developer;" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepaksaini005&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -92,10 +87,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini005&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
