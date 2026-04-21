@@ -82,7 +82,7 @@
 
 ---
 
-##🔹 Customer Churn Analysis 📉
+### 🔹  Customer Churn Analysis 📉
 
 📌 Exploratory Data Analysis & risk segmentation on telecom dataset
 
