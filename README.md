@@ -13,9 +13,9 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Student @ JECRC University, Jaipur  
-- 📊 Passionate about Data Analytics & AI  
-- ⚡ Building real-world projects using Power BI & ML  
-- 🎯 Goal: Data Scientist & AI Entrepreneur  
+- 📊 Passionate about Data Analytics & GenAi 
+- ⚡ Building real-world projects using python,Power BI & ML  
+- 🎯 Goal: GenAi Enginer & AI Entrepreneur  
 
 ---
 
