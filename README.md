@@ -82,6 +82,21 @@
 
 ---
 
+##🔹 Customer Churn Analysis 📉
+
+📌 Exploratory Data Analysis & risk segmentation on telecom dataset
+
+✨ Features:
+
+- ✔️ Churn rate & customer behavior analysis
+- ✔️ Tenure & contract-based segmentation
+- ✔️ Risk scoring model for churn prediction
+- ✔️ Visual insights using Seaborn & Matplotlib
+
+🛠️ Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
