@@ -112,10 +112,3 @@
 
 ---
 
-## ⚡ Fun Fact
-
-💡 I turn data into insights & ideas into AI products  
-
----
-
-⭐ *"Building smart AI systems that solve real-world problems"*
