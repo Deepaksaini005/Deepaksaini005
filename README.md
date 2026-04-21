@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Deepak Saini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI%2FML+Enthusiast;Power+BI+Developer;Future+AI+Entrepreneur+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI%2FML+Enthusiast;Power+BI+Developer;" />
 </p>
 
 <p align="center">
@@ -52,7 +52,8 @@
 📌 Real-time AI chatbot using Groq API  
 - ✔️ Fast responses  
 - ✔️ Context-aware chat  
-- ✔️ Streamlit UI  
+- ✔️ Streamlit UI
+- ✔️ Read Pdf and extract details 
 
 ---
 
@@ -69,7 +70,8 @@
 - ✔️ Revenue & order trends  
 - ✔️ Customer insights  
 - ✔️ Delivery performance  
-- ✔️ KPI & ROI tracking  
+- ✔️ KPI & ROI tracking
+- ✔️ Growth and Revenue
 
 🛠️ Power BI  
 
