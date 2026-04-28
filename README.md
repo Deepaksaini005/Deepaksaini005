@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Deepak Saini</h1>
-<h3 align="center">Aspiring Data Analyst | GenAI Enthusiast | Future AI Entrepreneur</h3>
+<h3 align="center">Aspiring Data Analyst | GenAI Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+Real-World+AI+Projects;Future+GenAI+Engineer" />
