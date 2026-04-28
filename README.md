@@ -95,12 +95,13 @@
 
 🛠️ Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
 
-### 🔹  HealthCare Data Analysis (powerBi and Python Libraries
+### 🔹 HealthCare Data Analysis (powerBi and Python Libraries
 - ✔️ Analyzed patient data to identify trends in admissions and test results
 - ✔️ Built interactive dashboards for operational insights
 - ✔️ Derived insights on emergency cases and revenue patterns
-- 
+
 🛠️Power Bi & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
+
 ---
 
 ## 📈 GitHub Analytics
