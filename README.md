@@ -1,119 +1,120 @@
-<h1 align="center">👋 Hi, I'm Deepak Saini</h1>
+<h1 align="center">🚀 Deepak Saini</h1>
+<h3 align="center">Aspiring Data Analyst | GenAI Enthusiast | Future AI Entrepreneur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI%2FML+Enthusiast;Power+BI+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+Real-World+AI+Projects;Future+GenAI+Engineer" />
 </p>
-
-
-## 🚀 About Me
-
-- 🎓 B.Tech Student @ JECRC University, Jaipur  
-- 📊 Passionate about Data Analytics & GenAi 
-- ⚡ Building real-world projects using python,Power BI & ML  
-- 🎯 Goal: GenAi Enginer & AI Entrepreneur  
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Languages & Tools
+🎓 B.Tech Student  
+📍 Jaipur, India  
+
+💡 I build data-driven solutions and AI-powered applications that solve real-world problems.  
+📊 Strong focus on **Data Analytics, Visualization & Machine Learning**  
+⚡ Currently exploring **Generative AI & LLM-based applications**  
+
+🎯 **Goal:** Become a GenAI Engineer & build AI-powered startups  
+
+---
+
+## 🧠 Tech Stack
+
+### 🚀 Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 </p>
 
-### 📊 Data & Visualization
+### 📊 Data Analytics & Visualization
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 🤖 AI Resume Analyzer  
-📌 ATS-based resume analysis system  
-- ✔️ ATS Score  
-- ✔️ Skill gap detection  
-- ✔️ Interview questions  
-- ✔️ Job match  
+### 🤖 AI Resume Analyzer
+📌 Smart ATS-based resume evaluation system  
+✔️ ATS Score Calculation  
+✔️ Skill Gap Detection  
+✔️ Interview Question Suggestions  
+✔️ Job Matching System  
 
 ---
 
-### 🔹 💬 AI Chatbot  
-📌 Real-time AI chatbot using Groq API  
-- ✔️ Fast responses  
-- ✔️ Context-aware chat  
-- ✔️ Streamlit UI
-- ✔️ Read Pdf and extract details 
+### 💬 AI Chatbot (Groq API)
+📌 Real-time intelligent chatbot  
+✔️ Fast LLM responses  
+✔️ Context-aware conversations  
+✔️ PDF reading & data extraction  
+✔️ Streamlit UI  
 
 ---
 
-### 🔹 🎬 Netflix Recommendation System  
+### 🎬 Netflix Recommendation System
 📌 ML-based recommendation engine  
-- ✔️ Content-based filtering  
-- ✔️ Cosine similarity  
-- ✔️ Personalized suggestions  
+✔️ Content-Based Filtering  
+✔️ Cosine Similarity Model  
+✔️ Personalized Suggestions  
 
 ---
 
-### 🔹 📦 Blinkit Analytics Dashboard  
-📌 Interactive business dashboard  
-- ✔️ Revenue & order trends  
-- ✔️ Customer insights  
-- ✔️ Delivery performance  
-- ✔️ KPI & ROI tracking
-- ✔️ Growth and Revenue
-
-🛠️ Power BI  
+### 📦 Blinkit Analytics Dashboard
+📌 Business Intelligence Dashboard (Power BI)  
+✔️ Revenue & Order Trends  
+✔️ Customer Behavior Insights  
+✔️ Delivery Performance Analysis  
+✔️ KPI & ROI Tracking  
 
 ---
 
-### 🔹 📊 HR Analytics Dashboard  
-📌 Workforce & attrition analysis  
-- ✔️ Attrition insights  
-- ✔️ Salary & age trends  
-- ✔️ Department analysis  
-
-🛠️ Power BI  
+### 📊 HR Analytics Dashboard
+📌 Workforce & Attrition Insights  
+✔️ Employee Attrition Analysis  
+✔️ Salary & Age Trends  
+✔️ Department-wise Insights  
 
 ---
 
-### 🔹  Customer Churn Analysis 📉
-
-📌 Exploratory Data Analysis & risk segmentation on telecom dataset
-
-✨ Features:
-
-- ✔️ Churn rate & customer behavior analysis
-- ✔️ Tenure & contract-based segmentation
-- ✔️ Risk scoring model for churn prediction
-- ✔️ Visual insights using Seaborn & Matplotlib
-
-🛠️ Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
-
-### 🔹 HealthCare Data Analysis (powerBi and Python Libraries
-- ✔️ Analyzed patient data to identify trends in admissions and test results
-- ✔️ Built interactive dashboards for operational insights
-- ✔️ Derived insights on emergency cases and revenue patterns
-
-🛠️Power Bi & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
+### 📉 Customer Churn Analysis
+📌 Telecom churn analysis using EDA  
+✔️ Churn Rate Analysis  
+✔️ Customer Segmentation  
+✔️ Risk Scoring Model  
+✔️ Visualization (Seaborn & Matplotlib)  
 
 ---
 
-## 📈 GitHub Analytics
+### 🏥 Healthcare Data Analysis
+📌 Hospital operations & patient insights  
+✔️ Admission Trends  
+✔️ Emergency Case Analysis  
+✔️ Revenue Insights  
+✔️ Interactive Dashboard (Power BI)  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -125,12 +126,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-saini-772704d">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Saini-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/Deepaksaini005">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-DeepakSaini-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
+## 🔥 What Makes Me Different?
+
+✔️ I don’t just build dashboards — I extract **business insights**  
+✔️ I focus on **real-world problem solving**, not just tutorials  
+✔️ I combine **Data + AI + Visualization** for impact  
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
