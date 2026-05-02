@@ -135,12 +135,4 @@
 
 ---
 
-## 🔥 What Makes Me Different?
-
-✔️ I don’t just build dashboards — I extract **business insights**  
-✔️ I focus on **real-world problem solving**, not just tutorials  
-✔️ I combine **Data + AI + Visualization** for impact  
-
----
-
 ⭐ *If you like my work, consider giving a star to my repositories!*
