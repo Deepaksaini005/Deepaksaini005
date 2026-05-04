@@ -3,15 +3,19 @@
 <h1 align="center">🚀 Deepak Saini</h1>
 
 <h3 align="center">
-  Aspiring Data Analyst • GenAI Enthusiast • Future AI Founder
+  Data Analyst • GenAI Enthusiast • Future AI Founder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Products;Future+Generative+AI+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0051ff&height=120&section=header"/>
+  <img src="https://komarev.com/ghpvc/?username=Deepaksaini005&label=Profile+Views&color=00F7FF&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0051ff&height=140&section=header"/>
 </p>
 
 ---
@@ -27,7 +31,7 @@
 
 <br>
 
-I’m a **data-driven problem solver** focused on building impactful solutions using:
+I build **data-driven and AI-powered solutions** that solve real-world problems.
 
 <p align="center">
   <b>📊 Data Analytics • 🤖 Machine Learning • 🧠 Generative AI</b>
@@ -35,15 +39,15 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 <br>
 
-- 📊 Transforming raw data into **meaningful insights**  
-- 🤖 Developing **AI-powered applications**  
-- 🚀 Building **startup-focused solutions**  
-- 🧠 Exploring **LLMs & GenAI ecosystems**
+- 📊 Turning raw data into **insights that matter**  
+- 🤖 Building **AI applications & tools**  
+- 🚀 Focused on **startup-driven innovation**  
+- 🧠 Exploring **LLMs, APIs & GenAI ecosystems**
 
 <br>
 
 <p align="center">
-  🎯 <b>Mission:</b> Build scalable AI products & become a <b>GenAI Engineer + Entrepreneur</b>
+  🎯 <b>Mission:</b> Build scalable AI products & become a <b>GenAI Engineer + Founder</b>
 </p>
 
 ---
@@ -87,83 +91,44 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 <br>
 
 ### 🤖 AI Resume Analyzer  
-<i>Intelligent ATS-based resume evaluation system</i>
+<i>ATS-based resume evaluation system</i>
 
-- ✔️ ATS Score Calculation  
-- ✔️ Skill Gap Detection  
-- ✔️ Interview Question Generator  
-- ✔️ Job Matching Engine  
+✔️ ATS Score • ✔️ Skill Gap • ✔️ Interview Questions • ✔️ Job Match  
 
 🔗 https://github.com/Deepaksaini005/resume-analyzer  
 
 <br>
 
-### 💬 AI Chat Assistant (Groq API)  
-<i>High-performance chatbot powered by LLMs</i>
+### 💬 AI Chat Assistant  
+<i>LLM-powered chatbot (Groq API)</i>
 
-- ✔️ Ultra-fast responses  
-- ✔️ Context-aware conversations  
-- ✔️ PDF Analysis & Extraction  
-- ✔️ Interactive UI (Streamlit)  
+✔️ Fast Responses • ✔️ Context Chat • ✔️ PDF Analysis  
 
 🔗 https://github.com/Deepaksaini005/AI-Chat-Assistant  
 
 <br>
 
 ### 🎬 Movie Recommendation System  
-<i>Personalized content recommendation engine</i>
 
-- ✔️ Content-Based Filtering  
-- ✔️ Cosine Similarity Model  
-- ✔️ User Preference Matching  
+✔️ Content-Based Filtering • ✔️ Cosine Similarity  
 
 🔗 https://github.com/Deepaksaini005/Movie-Recommendation-Engine  
 
 <br>
 
-### 📦 Blinkit Analytics Dashboard  
-<i>Business Intelligence dashboard using Power BI</i>
+### 📦 Blinkit Dashboard  
 
-- ✔️ Revenue & Sales Trends  
-- ✔️ Customer Behavior Insights  
-- ✔️ Delivery Performance Metrics  
-- ✔️ KPI & ROI Tracking  
+✔️ Sales • ✔️ Customer Insights • ✔️ KPI Tracking  
 
 🔗 https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-  
 
 <br>
 
-### 💳 UPI Transactions Dashboard  
-<i>Financial analytics & trend analysis</i>
+### 💳 UPI Dashboard  
 
-- ✔️ Year-wise comparison (2021 vs 2022)  
-- ✔️ Monthly growth trends 📈  
-- ✔️ Market share of UPI apps  
-- ✔️ KPI tracking & insights  
+✔️ Growth Trends • ✔️ Market Share • ✔️ KPIs  
 
 🔗 https://github.com/Deepaksaini005/upi-insights-analytics  
-
-<br>
-
-### 📉 Customer Churn Analysis  
-<i>Telecom churn prediction using EDA</i>
-
-- ✔️ Churn Rate Analysis  
-- ✔️ Customer Segmentation  
-- ✔️ Risk Identification  
-- ✔️ Data Visualization  
-
-<br>
-
-### 🏥 Healthcare Data Analysis  
-<i>Hospital insights & operational analytics</i>
-
-- ✔️ Patient Admission Trends  
-- ✔️ Emergency Case Insights  
-- ✔️ Revenue Analysis  
-- ✔️ Power BI Dashboard  
-
-🔗 https://github.com/Deepaksaini005/HealthCare-Data-anlaysis  
 
 ---
 
@@ -174,8 +139,26 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepaksaini005&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ================= TROPHY ================= -->
+
+## 🏆 Achievements
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepaksaini005&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -188,6 +171,18 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ================= QUOTE ================= -->
+
+## 💡 Quote of the Day
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -211,9 +206,9 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051ff,100:00F7FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051ff,100:00F7FF&height=120&section=footer"/>
 </p>
 
 <p align="center">
-⭐ <b>If you like my work, give a star and let's build something amazing together!</b>
+⭐ <b>If you like my work, give a star ⭐ and let's build something impactful!</b>
 </p>
