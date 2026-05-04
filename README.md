@@ -1,211 +1,186 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">🚀 Deepak Saini</h1>
-<h3 align="center">Aspiring Data Analyst | GenAI Enthusiast</h3>
+
+<h3 align="center">
+  Aspiring Data Analyst • GenAI Enthusiast • Future AI Founder
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+Real-World+AI+Projects;Future+GenAI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0051ff&height=70"/>
+</p>
+
+---
 
 <!-- ================= ABOUT ================= -->
 
-<h2>👨‍💻 About Me</h2>
+## ⚡ About Me
 
-<p>
-🎓 B.Tech Student <br>
+🎓 B.Tech Student  
 📍 Jaipur, India  
+
+<br>
+
+I’m a **data-driven problem solver** focused on building impactful solutions using  
+**Data Analytics, Machine Learning, and Generative AI**.
+
+<br>
+
+- 📊 Transforming raw data into **meaningful insights**  
+- 🤖 Developing **AI-powered applications**  
+- 🚀 Passionate about **startup-oriented solutions**  
+- 🧠 Exploring **LLMs & GenAI ecosystems**
+
+<br>
+
+<p align="center">
+🎯 <b>Mission:</b> Build scalable AI products & become a <b>GenAI Engineer + Entrepreneur</b>
 </p>
 
-<p>
-💡 I build data-driven solutions and AI-powered applications that solve real-world problems.<br>
-📊 Strong focus on <b>Data Analytics, Visualization & Machine Learning</b><br>
-⚡ Currently exploring <b>Generative AI & LLM-based applications</b>
-</p>
-
-<p>
-🎯 <b>Goal:</b> Become a GenAI Engineer & build AI-powered startups
-</p>
-
-<hr>
+---
 
 <!-- ================= TECH STACK ================= -->
 
-<h2>🧠 Tech Stack</h2>
+## 🧠 Tech Stack
 
-<h3>🚀 Core Skills</h3>
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,pandas,numpy" />
 </p>
 
-<h3>📊 Data Analytics & Visualization</h3>
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
-<h3>⚙️ Tools & Frameworks</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<hr>
+---
 
 <!-- ================= PROJECTS ================= -->
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td>
+<br>
 
-<h3>🤖 AI Resume Analyzer</h3>
-<p>Smart ATS-based resume evaluation system</p>
+### 🤖 AI Resume Analyzer  
+<i>Intelligent ATS-based resume evaluation system</i>  
 
-<ul>
-<li>ATS Score Calculation</li>
-<li>Skill Gap Detection</li>
-<li>Interview Question Suggestions</li>
-<li>Job Matching System</li>
-</ul>
+- ✔️ ATS Score Calculation  
+- ✔️ Skill Gap Detection  
+- ✔️ Interview Question Generator  
+- ✔️ Job Matching Engine  
 
-<a href="https://github.com/Deepaksaini005/resume-analyzer">🔗 View Project</a>
+🔗 https://github.com/Deepaksaini005/resume-analyzer  
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td>
+### 💬 AI Chat Assistant (Groq API)  
+<i>High-performance chatbot powered by LLMs</i>  
 
-<h3>💬 AI Chatbot (Groq API)</h3>
-<p>Real-time intelligent chatbot</p>
+- ✔️ Ultra-fast responses  
+- ✔️ Context-aware conversations  
+- ✔️ PDF Analysis & Extraction  
+- ✔️ Interactive UI (Streamlit)  
 
-<ul>
-<li>Fast LLM responses</li>
-<li>Context-aware conversations</li>
-<li>PDF reading & data extraction</li>
-<li>Streamlit UI</li>
-</ul>
+🔗 https://github.com/Deepaksaini005/AI-Chat-Assistant  
 
-<a href="https://github.com/Deepaksaini005/AI-Chat-Assistant">🔗 View Project</a>
+<br>
 
-</td>
-</tr>
+### 🎬 Movie Recommendation System  
+<i>Personalized content recommendation engine</i>  
 
-<tr>
-<td>
+- ✔️ Content-Based Filtering  
+- ✔️ Cosine Similarity Model  
+- ✔️ User Preference Matching  
 
-<h3>🎬 Netflix Recommendation System</h3>
-<p>ML-based recommendation engine</p>
+🔗 https://github.com/Deepaksaini005/Movie-Recommendation-Engine  
 
-<ul>
-<li>Content-Based Filtering</li>
-<li>Cosine Similarity Model</li>
-<li>Personalized Suggestions</li>
-</ul>
+<br>
 
-<a href="https://github.com/Deepaksaini005/Movie-Recommendation-Engine">🔗 View Project</a>
+### 📦 Blinkit Analytics Dashboard  
+<i>Business Intelligence dashboard using Power BI</i>  
 
-</td>
-</tr>
+- ✔️ Revenue & Sales Trends  
+- ✔️ Customer Behavior Insights  
+- ✔️ Delivery Performance Metrics  
+- ✔️ KPI & ROI Tracking  
 
-<tr>
-<td>
+🔗 https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-  
 
-<h3>📦 Blinkit Analytics Dashboard</h3>
-<p>Power BI Business Dashboard</p>
+<br>
 
-<ul>
-<li>Revenue & Order Trends</li>
-<li>Customer Insights</li>
-<li>KPI Tracking</li>
-</ul>
+### 💳 UPI Transactions Dashboard  
+<i>Financial analytics & trend analysis</i>  
 
-<a href="https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-">🔗 View Project</a>
+- ✔️ Year-wise comparison (2021 vs 2022)  
+- ✔️ Monthly growth trends 📈  
+- ✔️ Market share of UPI apps  
+- ✔️ KPI tracking & insights  
 
-</td>
-</tr>
+🔗 https://github.com/Deepaksaini005/upi-insights-analytics  
 
-<tr>
-<td>
+<br>
 
-<h3>💳 UPI Transactions Dashboard</h3>
-<p>Financial analysis using Power BI</p>
+### 📉 Customer Churn Analysis  
+<i>Telecom churn prediction using EDA</i>  
 
-<ul>
-<li>Year-wise comparison</li>
-<li>Growth trends</li>
-<li>Market share insights</li>
-</ul>
+- ✔️ Churn Rate Analysis  
+- ✔️ Customer Segmentation  
+- ✔️ Risk Identification  
+- ✔️ Data Visualization  
 
-<a href="https://github.com/Deepaksaini005/upi-insights-analytics">🔗 View Project</a>
+<br>
 
-</td>
-</tr>
+### 🏥 Healthcare Data Analysis  
+<i>Hospital insights & operational analytics</i>  
 
-<tr>
-<td>
+- ✔️ Patient Admission Trends  
+- ✔️ Emergency Case Insights  
+- ✔️ Revenue Analysis  
+- ✔️ Power BI Dashboard  
 
-<h3>📉 Customer Churn Analysis</h3>
-<p>Telecom churn analysis using EDA</p>
+🔗 https://github.com/Deepaksaini005/HealthCare-Data-anlaysis  
 
-<ul>
-<li>Customer Segmentation</li>
-<li>Risk Scoring</li>
-<li>Visualization</li>
-</ul>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>🏥 Healthcare Data Analysis</h3>
-<p>Hospital analytics dashboard</p>
-
-<ul>
-<li>Admission trends</li>
-<li>Emergency analysis</li>
-<li>Revenue insights</li>
-</ul>
-
-<a href="https://github.com/Deepaksaini005/HealthCare-Data-anlaysis">🔗 View Project</a>
-
-</td>
-</tr>
-
-</table>
-
-<hr>
+---
 
 <!-- ================= STATS ================= -->
 
-<h2>📈 GitHub Stats</h2>
+## 📊 GitHub Analytics
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<hr>
+---
 
 <!-- ================= CONTRIBUTION ================= -->
 
-<h2>🐍 Contribution Graph</h2>
+## 🐍 Contribution Snake
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<hr>
+---
 
 <!-- ================= CONTACT ================= -->
 
-<h2>🌐 Connect With Me</h2>
+## 🌐 Let's Connect
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-saini-772704d">
@@ -216,7 +191,7 @@
   </a>
 </p>
 
-<hr>
+---
 
 <p align="center">
 ⭐ <b>If you like my work, give a star and let's build something amazing together!</b>
