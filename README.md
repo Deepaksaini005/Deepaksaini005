@@ -3,18 +3,13 @@
 <h1 align="center">🚀 Deepak Saini</h1>
 
 <h3 align="center">
-  Aspiring Data Analyst • GenAI Enthusiast • Future AI Founder
+ Data Analyst • GenAI Enthusiast 
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0051ff&height=70"/>
-</p>
-
----
 
 <!-- ================= ABOUT ================= -->
 
@@ -113,7 +108,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 - ✔️ Delivery Performance Metrics  
 - ✔️ KPI & ROI Tracking  
 
-🔗 https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-  
+🔗 https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-.git 
 
 <br>
 
