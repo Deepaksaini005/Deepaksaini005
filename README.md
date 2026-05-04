@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems" />
 </p>
 
 
