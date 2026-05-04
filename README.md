@@ -17,12 +17,6 @@
 
 ## ⚡ About Me
 
-<p align="center">
-💡 <i>Data → Insights → AI Solutions → Real Impact</i>
-</p>
-
-<br>
-
 🎓 B.Tech Student | 📍 Jaipur, India  
 
 I’m a **data-driven problem solver** focused on building impactful solutions using **Data Analytics, Machine Learning, and Generative AI**.
@@ -193,13 +187,6 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 <!-- ================= FOOTER ================= -->
 
-## 💡 Fun Fact
-
-<p align="center">
-💭 I don't just analyze data — I build systems that <b>think, learn, and scale.</b>
-</p>
-
----
 
 <p align="center">
 ⭐ <b>If you like my work, give a star and let's build something amazing together!</b>
