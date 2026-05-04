@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Deepak Saini</h1>
-<h3 align="center">Aspiring Data Analyst | GenAI Enthusiast </h3>
+<h3 align="center">Aspiring Data Analyst | GenAI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+Real-World+AI+Projects;Future+GenAI+Engineer" />
@@ -51,6 +51,8 @@
 ✔️ Interview Question Suggestions  
 ✔️ Job Matching System  
 
+🔗 **Project Link:** 
+https://github.com/Deepaksaini005/resume-analyzer.git
 ---
 
 ### 💬 AI Chatbot (Groq API)
@@ -60,6 +62,8 @@
 ✔️ PDF reading & data extraction  
 ✔️ Streamlit UI  
 
+🔗 **Project Link:**  
+https://github.com/Deepaksaini005/AI-Chat-Assistant.git
 ---
 
 ### 🎬 Netflix Recommendation System
@@ -68,6 +72,8 @@
 ✔️ Cosine Similarity Model  
 ✔️ Personalized Suggestions  
 
+🔗 **Project Link:**  
+https://github.com/Deepaksaini005/Movie-Recommendation-Engine.git
 ---
 
 ### 📦 Blinkit Analytics Dashboard
@@ -76,6 +82,22 @@
 ✔️ Customer Behavior Insights  
 ✔️ Delivery Performance Analysis  
 ✔️ KPI & ROI Tracking  
+
+🔗 **Project Link:**  
+https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-.git
+---
+
+### 💳 UPI Transactions Analysis Dashboard
+📌 Comparative analysis of UPI transactions (2021 vs 2022) using Power BI  
+
+✔️ Year-wise comparison of transaction volume & value  
+✔️ Monthly trends to identify growth patterns 📈  
+✔️ Market share analysis of top UPI apps  
+✔️ Customer contribution & user transaction insights  
+✔️ KPI tracking (Total Value, Avg Value, Transactions)  
+
+🔗 **Project Link:**  
+https://github.com/Deepaksaini005/upi-insights-analytics  
 
 ---
 
@@ -103,6 +125,8 @@
 ✔️ Revenue Insights  
 ✔️ Interactive Dashboard (Power BI)  
 
+🔗 **Project Link:**  
+https://github.com/Deepaksaini005/HealthCare-Data-anlaysis.git
 ---
 
 ## 📈 GitHub Stats
