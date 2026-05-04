@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepaksaini005&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -17,7 +14,8 @@
 
 ## ⚡ About Me
 
-🎓 B.Tech Student | 📍 Jaipur, India  
+🎓 B.Tech Student 
+📍 Jaipur, India  
 
 I’m a **data-driven problem solver** focused on building impactful solutions using **Data Analytics, Machine Learning, and Generative AI**.
 
