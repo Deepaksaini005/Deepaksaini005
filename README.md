@@ -1,12 +1,18 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">🚀 Deepak Saini</h1>
-<h3 align="center">Aspiring Data Analyst • GenAI Enthusiast • Future AI Founder</h3>
+
+<h3 align="center">
+  Aspiring Data Analyst • GenAI Enthusiast • Future AI Founder
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Data+Analytics+%7C+Machine+Learning;Power+BI+%7C+Python+Developer;Building+AI+Projects+for+Real+Problems;Future+Generative+AI+Engineer" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0051ff&height=120&section=header"/>
+</p>
 
 ---
 
@@ -14,17 +20,31 @@
 
 ## ⚡ About Me
 
-🎓 B.Tech Student 
+<br>
+
+🎓 B.Tech Student  
 📍 Jaipur, India  
 
-I’m a **data-driven problem solver** focused on building impactful solutions using **Data Analytics, Machine Learning, and Generative AI**.
+<br>
 
-- 📊 Transforming raw data into **meaningful insights**
-- 🤖 Developing **AI-powered applications**
-- 🚀 Passionate about **startup-oriented solutions**
+I’m a **data-driven problem solver** focused on building impactful solutions using:
+
+<p align="center">
+  <b>📊 Data Analytics • 🤖 Machine Learning • 🧠 Generative AI</b>
+</p>
+
+<br>
+
+- 📊 Transforming raw data into **meaningful insights**  
+- 🤖 Developing **AI-powered applications**  
+- 🚀 Building **startup-focused solutions**  
 - 🧠 Exploring **LLMs & GenAI ecosystems**
 
-🎯 <b>Mission:</b> Build scalable AI products & become a <b>GenAI Engineer + Entrepreneur</b>
+<br>
+
+<p align="center">
+  🎯 <b>Mission:</b> Build scalable AI products & become a <b>GenAI Engineer + Entrepreneur</b>
+</p>
 
 ---
 
@@ -38,15 +58,21 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -70,7 +96,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 🔗 https://github.com/Deepaksaini005/resume-analyzer  
 
----
+<br>
 
 ### 💬 AI Chat Assistant (Groq API)  
 <i>High-performance chatbot powered by LLMs</i>
@@ -82,7 +108,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 🔗 https://github.com/Deepaksaini005/AI-Chat-Assistant  
 
----
+<br>
 
 ### 🎬 Movie Recommendation System  
 <i>Personalized content recommendation engine</i>
@@ -93,7 +119,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 🔗 https://github.com/Deepaksaini005/Movie-Recommendation-Engine  
 
----
+<br>
 
 ### 📦 Blinkit Analytics Dashboard  
 <i>Business Intelligence dashboard using Power BI</i>
@@ -105,7 +131,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 🔗 https://github.com/Deepaksaini005/Blinkit-Quick-Commerce-Sales-Customer-Insights-Dashboard-Power-BI-  
 
----
+<br>
 
 ### 💳 UPI Transactions Dashboard  
 <i>Financial analytics & trend analysis</i>
@@ -117,7 +143,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 🔗 https://github.com/Deepaksaini005/upi-insights-analytics  
 
----
+<br>
 
 ### 📉 Customer Churn Analysis  
 <i>Telecom churn prediction using EDA</i>
@@ -127,7 +153,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 - ✔️ Risk Identification  
 - ✔️ Data Visualization  
 
----
+<br>
 
 ### 🏥 Healthcare Data Analysis  
 <i>Hospital insights & operational analytics</i>
@@ -148,8 +174,8 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepaksaini005&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -166,7 +192,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 ---
 
-<!-- ================= CONTACT ================= -->
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Let's Connect
 
@@ -176,6 +202,7 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
   <a href="https://www.linkedin.com/in/deepak-saini-772704d">
     <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Saini-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="https://github.com/Deepaksaini005">
     <img src="https://img.shields.io/badge/GitHub-DeepakSaini-black?style=for-the-badge&logo=github"/>
   </a>
@@ -183,8 +210,9 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051ff,100:00F7FF&height=100&section=footer"/>
+</p>
 
 <p align="center">
 ⭐ <b>If you like my work, give a star and let's build something amazing together!</b>
