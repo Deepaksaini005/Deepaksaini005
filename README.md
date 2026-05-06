@@ -130,7 +130,8 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 - ✔️ Churn Rate Analysis  
 - ✔️ Customer Segmentation  
 - ✔️ Risk Identification  
-- ✔️ Data Visualization  
+- ✔️ Data Visualization
+  
 🔗 https://github.com/Deepaksaini005/Customer_churn-Analysis
 <br>
 
