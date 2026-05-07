@@ -146,14 +146,11 @@ I’m a **data-driven problem solver** focused on building impactful solutions u
 🔗 https://github.com/Deepaksaini005/HealthCare-Data-anlaysis  
 
 ### 🛒 SQL E-Commerce Sales Analysis 
-<i>Hospital insights & operational analytics</i>  
-
 - Analyzed e-commerce sales data using SQL queries and business analytics techniques.
 - Used Joins, Aggregate Functions, CTEs, and Window Functions for data analysis.
 - Identified top-selling products, revenue trends, and customer purchasing behavior.
 - Performed sales performance and customer segmentation analysis using MySQL.
 - Generated business insights through optimized SQL queries and reporting.
-- 
 🔗 https://github.com/Deepaksaini005/sql-ecommerce-sales-analysis.git 
 
 ---
