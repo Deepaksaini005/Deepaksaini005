@@ -42,7 +42,6 @@ Currently focusing on
 
 - 📊 Data Analytics
 - 🤖 Machine Learning
-- 🧠 Generative AI
 - 📈 Business Intelligence
 - ⚡ AI Powered Applications
 
@@ -65,22 +64,6 @@ I enjoy building scalable AI solutions, analyzing business data and continuously
 - Power BI
 - Python Automation
 - Business Reports
-
----
-
-# 🏆 Certifications & Job Simulations
-
-### Google
-
-✅ Google Business Intelligence Professional Certificate
-
-✅ Google Advanced Data Analytics Professional Certificate
-
----
-
-### Machine Learning
-
-✅ Machine Learning Specialization
 
 ---
 
@@ -130,24 +113,9 @@ I enjoy building scalable AI solutions, analyzing business data and continuously
 
 ---
 
-
----
-
 <!-- ===================================================== -->
 <!--                 GITHUB ANALYTICS                       -->
 <!-- ===================================================== -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepaksaini005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
