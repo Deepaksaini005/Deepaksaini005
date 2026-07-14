@@ -130,34 +130,6 @@ I enjoy building scalable AI solutions, analyzing business data and continuously
 
 ---
 
-## 🤖 Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=jupyter,anaconda"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
-- Generative AI
-- Large Language Models (LLMs)
-- AI Agents
-- Advanced Machine Learning
-- Deep Learning
-- Model Deployment
 
 ---
 
@@ -197,16 +169,6 @@ I enjoy building scalable AI solutions, analyzing business data and continuously
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepaksaini005&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -232,59 +194,3 @@ I enjoy building scalable AI solutions, analyzing business data and continuously
 </p>
 
 ---
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote of the Day
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```python
-while(True):
-    learn()
-    build()
-    improve()
-    repeat()
-```
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
-
-<h4 align="center">
-
-🚀 Building AI Solutions • Solving Business Problems • Never Stop Learning
-
-</h4>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-
-</p>
